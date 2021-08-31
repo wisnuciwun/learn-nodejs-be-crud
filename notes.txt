@@ -1,0 +1,2 @@
+npm install --save-dev
+npm install express mysql body-parser
